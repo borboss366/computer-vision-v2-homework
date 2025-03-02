@@ -1,6 +1,8 @@
 ## Homework 1
 **Objective**: Install Anaconda (including Navigator) and create virtual environment to use in this course.
 
+**Note**: If you have your development environment already set up with jupyter (e.g. venv or Google Colab) you can just use it for this course and ignore this part of the homework :-)
+
 ### Step 1
 Go to the official [web page](https://www.anaconda.com/products/individual#linux) and download the installer suitable for your operating system (Ubuntu, Windows, or Mac).
 
