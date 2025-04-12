@@ -6,6 +6,8 @@ In this homework, you are going to use and compare two different trackers (of yo
 Decide what video you are going to use for this homework, select an object and generate the template. You can use any video you want (your own, from Youtube, etc.)
 and track any object you want (e.g. a car, a pedestrian, etc.).
 
+
+
 ### Step 2
 Initialize a tracker (e.g. KCF).
 
